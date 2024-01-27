@@ -80,7 +80,7 @@ For direct drive setups, the retraction settings is generally between 0.2mm and 
 For bowden set-ups it is in the ball part of 0.5mm to 5mm.
 
 The retraction test can be configured in a similar way to the temperature tower however when configuring the per-layer settings, change the `Retraction Material Amount` under the left extruder.
-You can also download a retraction file from [here](content/3D%20Printing/IdeaMaker%20Calibration/Retraction-Calibration-Tower.zip).
+You can also download a retraction file from [here](Retraction-Calibration-Tower.zip).
 
 To update the retraction value, navigate to:
 
