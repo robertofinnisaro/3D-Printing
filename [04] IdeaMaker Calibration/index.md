@@ -53,7 +53,7 @@ After calibrating the temperature for the filament, you will be able to assess t
 The temperature tower in IdeaMaker is a little more finicky and requires a little more effort to set up compared to other slicers such as OrcaSlicer or Cura.
 IdeaMaker will require you to manually change the hot end temperature for each layer of the tower.
 
-The calibration method on other slicers uses a fork of the [gaaZolee smart temperature tower](https://www.thingiverse.com/thing:2729076), however if you want to save time you can download this [pre-set tower](/content/3D%20Printing/IdeaMaker%20Calibration/Temperature-Calibration-Tower.zip).
+The calibration method on other slicers uses a fork of the [gaaZolee smart temperature tower](https://www.thingiverse.com/thing:2729076), however if you want to save time you can download this [pre-set tower](Temperature-Calibration-Tower.zip)
 This guide will still run through how to calibrate the tower manually so that you have an understanding for future reference.
 
 Once the model has been imported into IdeaMaker, select the model and navigate through `Group and Layer Settings -> Setting Group 1`.
